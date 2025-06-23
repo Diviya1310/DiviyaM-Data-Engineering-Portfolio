@@ -1,5 +1,3 @@
-# DiviyaM-Data-Engineering-Portfolio
-My data engineering portfolio with ETL projects, SQL, and Power BI dashboards.
 Hi, I'm Diviya M — Data Engineer | Azure Specialist | BI Developer
 Toronto, Canada
 Email: Diviya.m1310@gmail.com
