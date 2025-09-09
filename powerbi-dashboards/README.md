@@ -11,8 +11,13 @@ This repository contains multiple Power BI projects showcasing end-to-end data v
 ### 1. **E-Commerce Sales Dashboard**
 
 * **File:** `ECOMMERCE SALES.PNG`
+* **File:** `Power bi project.pbix`
 * **Description:**
   Snapshot of an e-commerce sales dashboard that highlights **sales trends, top-performing categories, regional breakdowns, and revenue growth**.
+  * 🔄 Data modeling and relationships
+  * 📊 Multiple dashboards with KPIs
+  * 📌 Example of advanced DAX calculations
+
 
 ---
 
@@ -59,18 +64,6 @@ This repository contains multiple Power BI projects showcasing end-to-end data v
   * 🌡️ Temperature trends (daily, monthly, yearly)
   * ☔ Rainfall and humidity variations
   * 🌍 Geographic weather mapping and seasonal comparisons
-
----
-
-### 5. **General Power BI Project**
-
-* **File:** `Power bi project.pbix`
-* **Description:**
-  A consolidated Power BI project file that demonstrates:
-
-  * 🔄 Data modeling and relationships
-  * 📊 Multiple dashboards with KPIs
-  * 📌 Example of advanced DAX calculations
 
 ---
 
